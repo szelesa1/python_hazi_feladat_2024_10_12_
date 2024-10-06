@@ -1,0 +1,4 @@
+import hazi_feladat_2024_10_12
+
+hazi_feladat_2024_10_12.tizenkettedik_feladat()
+
